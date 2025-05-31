@@ -65,7 +65,7 @@ const Projects = () => {
       title: 'e-commerce',
       description: 'Designed specifically for sale in Africa.',
       technologies: ['React', 'TypeScript', 'Tailwind CSS'],
-      image: '../../public/screenWebsite.png',
+      image: '../../public/screenwebsite.png',
       liveLink: 'https://kamikael.github.io/website/',
       sourceLink: 'https://github.com/kamikael/website',
     },
